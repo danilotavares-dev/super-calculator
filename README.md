@@ -1,4 +1,4 @@
-# SuperCalculadora
+# Super Calculator
 
 A clean and efficient calculator application built with Java.
 
